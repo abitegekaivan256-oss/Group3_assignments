@@ -113,8 +113,6 @@ IQR = Q3 - Q1
 
 ## Working Example
 
-### Input Data
-
 The following DataFrame-like data is used:
 
 | Student | Score |
