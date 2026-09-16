@@ -112,6 +112,7 @@ IQR = Q3 - Q1
 
 
 ## Working Example
+input values
 
 The following DataFrame-like data is used:
 

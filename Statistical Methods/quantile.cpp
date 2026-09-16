@@ -40,7 +40,7 @@ double quantile(const vector<double>& data, double q)
     int upperIndex = ceil(position);
 
     // If the position is a whole number,
-    // the quantile is exactly that value in the sorted data
+    // the quantile is exactly that value 
     if (lowerIndex == upperIndex)
     {
         return sortedData[lowerIndex];
